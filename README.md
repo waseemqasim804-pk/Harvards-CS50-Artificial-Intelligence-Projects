@@ -1,4 +1,4 @@
-# 🧠 Harvard CS50AI: Artificial Intelligence with Python — Master Portfolio
+# 🧠 Harvard CS50AI: Artificial Intelligence with Python 
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Harvard CS50 AI](https://img.shields.io/badge/Harvard%20University-CS50%20AI-A51C30?style=for-the-badge&logo=harvard&logoColor=white)](https://cs50.harvard.edu/ai/)
@@ -20,7 +20,6 @@
   - [4. Learning](#4-learning)
   - [5. Neural Networks](#5-neural-networks)
   - [6. Language](#6-language)
-- [Resume & CV Impact Bullet Points](#-resume--cv-impact-bullet-points)
 - [Repository Structure](#-repository-structure)
 - [Getting Started](#-getting-started)
 - [Technologies & Tooling](#-technologies--tooling)
@@ -74,20 +73,6 @@
 ### 6. Language
 * **[Parser](./10-Parser-Natural-Language-Processing):** Designed a Context-Free Grammar (CFG) in NLTK to parse sentences with complex prepositional, adverbial, and clausal modifiers. Implemented syntactic subtree traversal to extract base noun phrase chunks.
 * **[Attention](./11-Attention-Transformers-Visualization):** Exploited HuggingFace Transformers and pretrained BERT (`bert-base-uncased`) to predict masked tokens and visualize self-attention matrices, empirically isolating attention heads specializing in sequential antecedent tracking and determiner-noun syntax.
-
----
-
-## 💼 Resume & CV Impact Bullet Points
-
-If you are featuring these projects on your CV, resume, or LinkedIn portfolio, here are high-impact, employer-ready bullet points:
-
-```markdown
-• Developed a comprehensive suite of 12 Artificial Intelligence and Machine Learning systems covering Graph Search, Knowledge Inference, Bayesian Networks, Reinforcement Learning, and Transformers.
-• Engineered an unbeatable Minimax game engine with Alpha-Beta Pruning, an automated CSP crossword generator using AC-3 & MRV heuristics, and a Minesweeper knowledge-based inference agent.
-• Trained a Deep Convolutional Neural Network (CNN) in TensorFlow/Keras achieving 95%+ classification accuracy across 43 classes on the German Traffic Sign Recognition Benchmark (GTSRB).
-• Implemented Q-Learning Reinforcement Learning agents with epsilon-greedy policies and Google's PageRank algorithm via Markov Chain Monte Carlo simulations and iterative convergence.
-• Visualized Transformer self-attention mechanisms in HuggingFace BERT, analyzing attention tensors across 144 head-layer configurations to interpret syntactic and semantic dependencies.
-```
 
 ---
 
